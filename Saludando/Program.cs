@@ -17,6 +17,7 @@ namespace Saludando
             //FraciscoIndel
             //H2
             Console.WriteLine("Bienvenido");
+            Console.ReadKey();
 
         }
     }
