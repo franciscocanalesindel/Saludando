@@ -13,6 +13,7 @@ namespace Saludando
             //Francisco-canales
             //H1
             Console.WriteLine("Hola!");
+            Console.ReadKey();
 
             //FraciscoIndel
             //H2
